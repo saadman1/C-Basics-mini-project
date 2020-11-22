@@ -1,2 +1,2 @@
-# C-Basics-mini-project
+# C sharp-Basics-mini-project
 Calculation of bank amount,interest
